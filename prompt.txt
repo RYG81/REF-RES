@@ -1,0 +1,129 @@
+Prompt 1
+Mode: T2VA
+Duration: 5 seconds
+Aspect Ratio: 9:16
+Style: Photorealistic cinematic gaming influencer reel
+
+integrated_multimodal_description:
+
+[Shot 1] A 24-year-old Indian female gaming influencer with medium brown skin, expressive dark brown eyes, long dark hair, and a casual black oversized gaming T-shirt sits in a premium black gaming chair inside her gaming bedroom.
+
+The room features purple and cyan RGB lighting, a large gaming monitor, RGB mechanical keyboard, gaming mouse, and illuminated PC tower.
+
+0.00–1.50s:
+The camera begins behind her right shoulder, showing her actively playing a colorful third-person battle royale game. Her hands move naturally on the keyboard and mouse.
+
+At approximately 1 second, her character is eliminated. The monitor clearly displays the exact centered text "GAME OVER".
+
+1.50–2.50s:
+She stops playing, gives a small disappointed laugh, and begins turning her gaming chair toward the camera.
+
+[Shot 2] At 00:02.500, the camera cuts to a front three-quarter medium close-up as she completes her chair rotation.
+
+2.50–6.00s:
+She looks directly into the camera with a playful, enthusiastic smile.
+
+The influencer (S1), speaking in youthful, natural Indian English, says:
+
+<d>[English] I was playing a new game on JioGames! And wow, what a game! It's incredibly exciting!.</d>
+
+Her delivery is energetic and conversational, with natural lip synchronization, expressive eyes, subtle eyebrow movements, and realistic facial expressions.
+
+End with her facing the camera, smiling naturally, ready to continue speaking.
+
+overall_soundscape:
+Subtle keyboard clicks, mouse clicks, brief game elimination sound, natural breathing, and clean Indian English dialogue.
+
+non_diegetic_music:
+Soft upbeat electronic gaming instrumental, low volume beneath dialogue.
+
+Constraints:
+No flashing lower-screen strips, no duplicated frames, no flickering monitors, no facial morphing, no distorted hands, no sudden lighting changes. Maintain a stable full-frame 9:16 image.
+
+Prompt 2
+Mode: I2VA
+Duration: 5 seconds
+Aspect Ratio: 9:16
+Input: Last frame of Clip 1
+
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description:
+
+[Shot 1] Continue seamlessly from the supplied reference frame.
+
+The same 24-year-old Indian female gaming influencer remains seated in her gaming chair, facing the camera.
+
+Preserve her exact facial identity, medium brown skin, dark brown eyes, long dark hair, black oversized gaming T-shirt, chair, room layout, gaming equipment, and purple-cyan RGB lighting.
+
+0.00–1.00s:
+The camera maintains a natural medium close-up with a subtle slow push-in. She maintains friendly eye contact and begins speaking enthusiastically.
+
+1.00–4.50s:
+She becomes slightly more animated, using small natural hand gestures while explaining the game.
+
+The influencer (S1) says in energetic, natural Indian English:
+
+<d>[English] Explore amazing worlds, build strategies, battle opponents, and team up with your friends!</d>
+
+Her delivery is confident, youthful, and conversational, like an authentic Indian gaming content creator.
+
+Maintain precise lip synchronization, realistic blinking, expressive eyebrows, and natural hand movements.
+
+4.50–5.00s:
+She briefly gestures toward her gaming monitor and glances at it.
+
+End with her seated in the same position, looking slightly toward the monitor, ready for the next continuation.
+
+overall_soundscape:
+Clear influencer dialogue, subtle gaming-room ambience, natural breathing, and gentle clothing movement.
+
+non_diegetic_music:
+Continue the same upbeat electronic gaming instrumental at low volume beneath dialogue.
+
+Constraints:
+No identity drift, no wardrobe changes, no background changes, no flashing lower-frame artifacts, no abrupt zooms, no duplicated frames, no distorted fingers. Preserve a stable full-frame 9:16 composition.
+
+Prompt 3
+Mode: I2VA
+Duration: 5 seconds
+Aspect Ratio: 9:16
+Input: Last frame of Clip 2
+
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description:
+
+[Shot 1] Continue seamlessly from the supplied reference frame.
+
+The same 24-year-old Indian female gaming influencer sits in her gaming chair, facing slightly toward the gaming monitor.
+
+Preserve her exact facial identity, hairstyle, skin tone, black oversized gaming T-shirt, chair, gaming setup, room geography, and purple-cyan lighting.
+
+0.00–1.00s:
+She turns her attention back toward the camera, smiles enthusiastically, and makes a small inviting hand gesture.
+
+1.00–5.00s:
+The influencer (S1) says in energetic, natural Indian English:
+
+<d>[English] Every match brings a new challenge! Don't believe me? Just watch this gameplay!And best part You can play it on Jio Cloud PC so you don't need high configuration computer</d>
+
+Her expression is playful, excited, and confident. Maintain accurate lip synchronization, natural breathing, and realistic facial expressions.
+
+5.00–7.00s:
+After finishing her dialogue, she gestures toward the gaming monitor and turns her attention back to the screen.
+
+The camera performs a smooth, gentle push-in toward the gaming monitor, making it increasingly prominent in the composition.
+
+The monitor displays a stable colorful third-person gaming scene.
+
+End on a sharp, steady monitor-focused frame suitable for an editorial cut to authentic Fortnite gameplay footage.
+
+overall_soundscape:
+Natural Indian English dialogue, soft room ambience, subtle mouse movement, and restrained gaming audio.
+
+non_diegetic_music:
+Continue the same electronic gaming instrumental, increasing energy slightly toward the ending.
+
+Constraints:
+No flashing bottom strips, no duplicated frames, no monitor tearing, no unexpected screen changes, no facial distortion, no extra fingers, no sudden lighting shifts. Maintain stable full-frame 9:16 composition.
